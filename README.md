@@ -1,5 +1,5 @@
 # music-signature-maker
-A CLI to find your own music signature from your name (just like J.S Bach did ref: [BASH motif](https://en.wikipedia.org/wiki/BACH_motif) )
+A CLI to find your own music signature from your name (just like J-S Bach did, ref: [BACH motif](https://en.wikipedia.org/wiki/BACH_motif) )
 
 ## Get started
 ```
